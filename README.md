@@ -12,3 +12,10 @@ Panduan Instalasi
 4. jalankan localhost/nama_folder  
 
 contohnya :  localhost/imago_fasta_tes1
+
+
+enkripsi menggunakan bycrypt -> untuk login pertama gunakan
+
+email : fastabee@gmail.com
+
+pw :  fastabee@gmail.com
